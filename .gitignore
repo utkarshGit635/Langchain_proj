@@ -1,0 +1,10 @@
+# Local secrets and environment files
+.env
+
+# Python environments and generated files
+venv/
+__pycache__/
+*.pyc
+
+# Generated prompt output
+prompts/
