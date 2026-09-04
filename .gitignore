@@ -1,10 +1,19 @@
 # Local secrets and environment files
-.env
+**/.env
 
 # Python environments and generated files
-venv/
-__pycache__/
+**/venv/
+**/__pycache__/
 *.pyc
 
 # Generated prompt output
-prompts/
+/prompts/
+**/paper_explainer.json
+
+# Keep the source Streamlit prompts directory
+!Prompts/
+!Prompts/**
+Prompts/.env
+Prompts/__pycache__/
+Prompts/paper_explainer.json
+Prompts/venv/
