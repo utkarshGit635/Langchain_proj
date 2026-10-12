@@ -1,0 +1,12 @@
+{
+    "title": "student",
+    "description": "A structured representation of a student review",
+    "type": "object",
+    "properties": {
+        "name": "string",
+        "age": "integer"
+    },
+    "required": [
+        "name"
+    ]
+}

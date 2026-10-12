@@ -16,6 +16,7 @@ huggingface-hub
 torch
 
 python-dotenv
+streamlit
 
 numpy
 scikit-learn
