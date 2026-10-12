@@ -17,6 +17,7 @@ torch
 
 python-dotenv
 streamlit
+grandalf
 
 numpy
 scikit-learn
